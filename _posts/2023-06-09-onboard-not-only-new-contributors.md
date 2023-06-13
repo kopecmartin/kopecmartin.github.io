@@ -31,7 +31,20 @@ Most of the content will be added here after the Summit. If you're here now, it 
 
 ## Additional content
 
-For more about forming habbits see [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits-summary)
+For more about forming habbits see [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits-summary).
+
+For around 45% people attending the summit it's their first summit - what we can read from that is that we might have many new people around. This group of people would benefit from the pool of easier tasks - they could easily catch up.
+
+It's been proved that puttering around may help with burnout.
 
 ### Glossary
 - **putter around** - "To move from place to place, doing trivial, random, or aimless tasks or activities." [source](https://idioms.thefreedictionary.com/putter+around)
+
+## Authors
+**Martin Kopec**
+[Email](mailto:mkopec@redhat.com)
+[LinkedIn](https://www.linkedin.com/in/martin-kopec-07b29096/)
+
+**Lukáš Piwowarski**
+[Email](mailto:lpiwowar@redhat.com)
+[LinkedIn](https://www.linkedin.com/in/luk%C3%A1%C5%A1-p-02b235a6/)
