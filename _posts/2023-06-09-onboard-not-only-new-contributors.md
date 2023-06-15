@@ -10,9 +10,8 @@ tags:
 toc: true
 ---
 
-This topic is gonna be presented during OpenInfra Summit in Vancouver, June 13-15, 2023.
-
-Most of the content will be added here after the Summit. If you're here now, it means you scanned the QR code at the end of the presentation. For now, this page provides additional content which we weren't able to squeze into our presentation.
+This topic was presented during the OpenInfra Summit in Vancouver, June 13-15, 2023.
+If you want to revisit the slides, [go here](#slides), below you can find the [summary](#summary) of the key takeaways and some [additional content](#additional-content) we weren't able to fit into the presentation.
 
 ## Summary
 1. There is less contributors around than we were used to.
@@ -39,6 +38,13 @@ It's been proved that puttering around may help with burnout.
 
 ### Glossary
 - **putter around** - "To move from place to place, doing trivial, random, or aimless tasks or activities." [source](https://idioms.thefreedictionary.com/putter+around)
+
+### Slides
+[Link to the slide deck](https://github.com/kopecmartin/kopecmartin.github.io/blob/master/_posts/files/OpenInfra%20Summit%20-%20Onboard%20Not%20Only%20New%20Contributors%20(2023-06-13).pdf)
+
+### Articles
+Our articles written on this topic:
+- TBA soon
 
 ## Authors
 **Martin Kopec**
